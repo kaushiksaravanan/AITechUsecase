@@ -1,0 +1,13 @@
+.wakatime-project
+/chromaddb/
+chromaddb/
+.chromaddb/
+./chromaddb/
+./chromaddb/*
+C:\Users\I587436\Documents\GitHub\DigitalAssistantDash\chromadb
+chromadb
+\__pycache__
+\__pycache__\
+__pycache__
+env
+\env\

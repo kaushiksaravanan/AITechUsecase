@@ -1,0 +1,33 @@
+Currency,Exch. Rate,Sentiment,Sentiment Score,Page Number,source_file
+HKD IRS,7.78,POSITIVE,0.9958173632621765,13,Barclays_FX_EM_Macro_Strategy_FX_EM_Views_for_the_Year_Ahead (1).pdf
+MYR IRS,4.41,NEGATIVE,0.8766384124755859,17,Barclays_FX_EM_Macro_Strategy_FX_EM_Views_for_the_Year_Ahead (1).pdf
+TWD IRS,32.28,NEGATIVE,0.9937477111816406,24,Barclays_FX_EM_Macro_Strategy_FX_EM_Views_for_the_Year_Ahead (1).pdf
+CHF SEK,0.096,POSITIVE,0.9992738366127014,9,BNP 27th May'24.pdf
+CAD USD,1.08,POSITIVE,0.9992738366127014,9,BNP 27th May'24.pdf
+GBP AUD,1.64,POSITIVE,0.9992738366127014,9,BNP 27th May'24.pdf
+CPI CPI,1.81,POSITIVE,0.9996732473373413,15,BNP 27th May'24.pdf
+USD USD,1.64,NEUTRAL,0.9998317956924438,27,BNP 27th May'24.pdf
+GBP EUR,2.11,NEUTRAL,0.9996997117996216,28,BNP 27th May'24.pdf
+GDP CPI,83.35,NEUTRAL,0.933379054069519,3,India Outlook FY26_HDFC Bank.pdf
+FYL TIS,36. 02,NEGATIVE,0.9915907382965088,8,India Outlook FY26_HDFC Bank.pdf
+USD/INR,86.50,NEGATIVE,0.9971363544464111,18,India Outlook FY26_HDFC Bank.pdf
+TWD THB,36.100,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+CLP MXN,41.500,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+INR IDR,393.50,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+AUD NZD,29.11,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+MYR PHP,59.300,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+PLN RON,154.00,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+CZK HUF,7.2440,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+ARS BRL,4.1980,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+GBP CNY,85.200,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+JPY EUR,69.25,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+RUB ZAR,11.058,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+CAD NOK,11.415,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+SEK CHF,0.6350,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+SGD KRW,11.019,NEUTRAL,0.9998356103897095,3,Monthly Foreign Exchange Outlook - Dec.pdf
+FAI YTD,7.1000,POSITIVE,0.999294638633728,12,Monthly Foreign Exchange Outlook - Dec.pdf
+IMF DOT,97.680,NEGATIVE,0.9950212240219116,14,Monthly Foreign Exchange Outlook - Dec.pdf
+ECB CNB,26.500,POSITIVE,0.9978437423706055,20,Monthly Foreign Exchange Outlook - Dec.pdf
+GDP YOY,4.2300,POSITIVE,0.9949347376823425,22,Monthly Foreign Exchange Outlook - Dec.pdf
+CAP INR,86.500,NEGATIVE,0.9931521415710449,27,Monthly Foreign Exchange Outlook - Dec.pdf
+CNY KRW,84.500,NEGATIVE,0.9931521415710449,27,Monthly Foreign Exchange Outlook - Dec.pdf

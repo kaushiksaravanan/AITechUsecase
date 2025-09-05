@@ -1,0 +1,12 @@
+---
+applications:
+- name: server01
+  memory: 4G
+  disk-quota: 8G
+  buildpack: python_buildpack  
+  command: python app.py
+  # services:
+  #   - chromadb_primary
+  #   - xsuaaforsimplejobs
+  #   - jobschedulerinstance
+  #   - logging_instance

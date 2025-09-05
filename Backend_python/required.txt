@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pandas
+easyocr
+pdf2image
+matplotlib
+seaborn
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
